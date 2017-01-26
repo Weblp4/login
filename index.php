@@ -29,7 +29,11 @@ and open the template in the editor.
     {
         return 1;
     }
-
+            
+    
+    
+    
+    
     else
     {
         return 0;
@@ -101,7 +105,8 @@ form.login div input[type="submit"] {
 <?php
 } else {
 	echo 'Su usuario ingreso correctamente.';
-        echo 'Holas compañeros de lp4';
+        echo 'hola a todos.';
+        
 	echo '<a href="logout.php">Logout</a>';
 }
 ?>
