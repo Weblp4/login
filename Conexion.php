@@ -7,8 +7,8 @@
  */
 
 define('DB_SERVER','LOCALHOST');
-define('DB_NAME','USUARIOSSS');
-define('DB_USER','ROODDD');
+define('DB_NAME','usuarios');
+define('DB_USER','root');
 define('DB_PASS','');
 
 $con = mysql_connect(DB_SERVER, DB_USER, DB_PASS);
